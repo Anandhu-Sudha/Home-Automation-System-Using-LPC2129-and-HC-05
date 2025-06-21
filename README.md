@@ -107,9 +107,10 @@ To build and test the project:
 
 1. Assemble the LPC2129 with LCD, Bluetooth module, LEDs, and switches.
 2. Connect the MOC/TRIAC circuit to safely control a 230V bulb.
-3. Flash the microcontroller with the appropriate hex file.
-4. Power the board using 5V USB input.
-5. Press **SW1** to toggle modes, and use **SW2** or Bluetooth commands (`'a'`/`'b'`) to control the light.
-6. Observe the system status on the LCD and verify bulb operation.
+3. Create a new project in keil ide, upload all the codes present in the directory , compile and create the hex file.
+4. Flash the microcontroller with the appropriate hex file.
+5. Power the board using 5V USB input.
+6. Press **SW1** to toggle modes, and use **SW2** or Bluetooth commands (`'a'`/`'b'`) to control the light.
+7. Observe the system status on the LCD and verify bulb operation.
 
 ##  NOTE ** The codes for this and the videos and clips attached are included in the corresponding folders.
