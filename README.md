@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/3d22e70f-9140-4b61-bc9f-f76cef86273b
 
 https://github.com/user-attachments/assets/b3e9b092-da59-4548-9787-f48a67c6811e
 
-This is the first time after developing it the proteus, the hex file was flashed to the board for the first time. 
+This is the first time after developing it the proteus, the hex file was flashed to the lpc 2129 board for the first time. 
 
 
 ---
